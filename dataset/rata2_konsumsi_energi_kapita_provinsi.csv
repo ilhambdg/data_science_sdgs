@@ -1,0 +1,243 @@
+No,Kode Provinsi,Provinsi,Tahun,Konsumsi Energi (kkal/kap/hari)
+1,11,Aceh,2018,2104
+2,12,Sumatera Utara,2018,2187
+3,13,Sumatera Barat,2018,2170
+4,14,Riau,2018,2082
+5,15,Jambi,2018,2109
+6,16,Sumatera Selatan,2018,2137
+7,17,Bengkulu,2018,2165
+8,18,Lampung,2018,1820
+9,19,Kepulauan Bangka Belitung,2018,2148
+10,21,Kepulauan Riau,2018,2115
+11,31,DKI Jakarta,2018,2231
+12,32,Jawa Barat,2018,2218
+13,33,Jawa Tengah,2018,2109
+14,34,DI Yogyakarta,2018,2227
+15,35,Jawa Timur,2018,2134
+16,36,Banten,2018,2263
+17,51,Bali,2018,2284
+18,52,Nusa Tenggara Barat,2018,2331
+19,53,Nusa Tenggara Timur,2018,1968
+20,61,Kalimantan Barat,2018,1926
+21,62,Kalimantan Tengah,2018,2183
+22,63,Kalimantan Selatan,2018,2183
+23,64,Kalimantan Timur,2018,1999
+24,65,Kalimantan Utara,2018,1975
+25,71,Sulawesi Utara,2018,2206
+26,72,Sulawesi Tengah,2018,2086
+27,73,Sulawesi Selatan,2018,2188
+28,74,Sulawesi Tenggara,2018,2126
+29,75,Gorontalo,2018,2069
+30,76,Sulawesi Barat,2018,2048
+31,81,Maluku,2018,1779
+32,82,Maluku Utara,2018,2065
+33,91,Papua Barat,2018,1938
+34,94,Papua,2018,1843
+35,11,Aceh,2019,2061
+36,12,Sumatera Utara,2019,2179
+37,13,Sumatera Barat,2019,2132
+38,14,Riau,2019,2072
+39,15,Jambi,2019,2060
+40,16,Sumatera Selatan,2019,2124
+41,17,Bengkulu,2019,2089
+42,18,Lampung,2019,2054
+43,19,Kepulauan Bangka Belitung,2019,2148
+44,21,Kepulauan Riau,2019,2131
+45,31,DKI Jakarta,2019,2193
+46,32,Jawa Barat,2019,2199
+47,33,Jawa Tengah,2019,2048
+48,34,DI Yogyakarta,2019,2204
+49,35,Jawa Timur,2019,2089
+50,36,Banten,2019,2250
+51,51,Bali,2019,2259
+52,52,Nusa Tenggara Barat,2019,2468
+53,53,Nusa Tenggara Timur,2019,1928
+54,61,Kalimantan Barat,2019,1913
+55,62,Kalimantan Tengah,2019,2150
+56,63,Kalimantan Selatan,2019,2270
+57,64,Kalimantan Timur,2019,2023
+58,65,Kalimantan Utara,2019,2008
+59,71,Sulawesi Utara,2019,2144
+60,72,Sulawesi Tengah,2019,2018
+61,73,Sulawesi Selatan,2019,2144
+62,74,Sulawesi Tenggara,2019,2090
+63,75,Gorontalo,2019,2106
+64,76,Sulawesi Barat,2019,2125
+65,81,Maluku,2019,1781
+66,82,Maluku Utara,2019,1764
+67,91,Papua Barat,2019,1918
+68,94,Papua,2019,1865
+69,11,Aceh,2020,2091
+70,12,Sumatera Utara,2020,2122
+71,13,Sumatera Barat,2020,2110
+72,14,Riau,2020,2076
+73,15,Jambi,2020,2081
+74,16,Sumatera Selatan,2020,2128
+75,17,Bengkulu,2020,2107
+76,18,Lampung,2020,2025
+77,19,Kepulauan Bangka Belitung,2020,2121
+78,21,Kepulauan Riau,2020,2140
+79,31,DKI Jakarta,2020,2199
+80,32,Jawa Barat,2020,2174
+81,33,Jawa Tengah,2020,2054
+82,34,DI Yogyakarta,2020,2147
+83,35,Jawa Timur,2020,2081
+84,36,Banten,2020,2250
+85,51,Bali,2020,2293
+86,52,Nusa Tenggara Barat,2020,2442
+87,53,Nusa Tenggara Timur,2020,1948
+88,61,Kalimantan Barat,2020,1908
+89,62,Kalimantan Tengah,2020,2141
+90,63,Kalimantan Selatan,2020,2272
+91,64,Kalimantan Timur,2020,2020
+92,65,Kalimantan Utara,2020,1944
+93,71,Sulawesi Utara,2020,2152
+94,72,Sulawesi Tengah,2020,2040
+95,73,Sulawesi Selatan,2020,2093
+96,74,Sulawesi Tenggara,2020,2028
+97,75,Gorontalo,2020,2045
+98,76,Sulawesi Barat,2020,2075
+99,81,Maluku,2020,1772
+100,82,Maluku Utara,2020,1773
+101,91,Papua Barat,2020,1903
+102,94,Papua,2020,1914
+103,11,Aceh,2021,2171
+104,12,Sumatera Utara,2021,2149
+105,13,Sumatera Barat,2021,2135
+106,14,Riau,2021,2080
+107,15,Jambi,2021,2141
+108,16,Sumatera Selatan,2021,2232
+109,17,Bengkulu,2021,2125
+110,18,Lampung,2021,2221
+111,19,Kepulauan Bangka Belitung,2021,2112
+112,21,Kepulauan Riau,2021,2149
+113,31,DKI Jakarta,2021,2223
+114,32,Jawa Barat,2021,2214
+115,33,Jawa Tengah,2021,2072
+116,34,DI Yogyakarta,2021,2144
+117,35,Jawa Timur,2021,2112
+118,36,Banten,2021,2259
+119,51,Bali,2021,2197
+120,52,Nusa Tenggara Barat,2021,2543
+121,53,Nusa Tenggara Timur,2021,2020
+122,61,Kalimantan Barat,2021,1941
+123,62,Kalimantan Tengah,2021,2194
+124,63,Kalimantan Selatan,2021,2296
+125,64,Kalimantan Timur,2021,1982
+126,65,Kalimantan Utara,2021,2023
+127,71,Sulawesi Utara,2021,2109
+128,72,Sulawesi Tengah,2021,2009
+129,73,Sulawesi Selatan,2021,2145
+130,74,Sulawesi Tenggara,2021,2046
+131,75,Gorontalo,2021,2009
+132,76,Sulawesi Barat,2021,2098
+133,81,Maluku,2021,1875
+134,82,Maluku Utara,2021,1862
+135,91,Papua Barat,2021,1911
+136,94,Papua,2021,1880
+137,11,Aceh,2022,2064
+138,12,Sumatera Utara,2022,2123
+139,13,Sumatera Barat,2022,2109
+140,14,Riau,2022,2022
+141,15,Jambi,2022,2070
+142,16,Sumatera Selatan,2022,2182
+143,17,Bengkulu,2022,2038
+144,18,Lampung,2022,2003
+145,19,Kepulauan Bangka Belitung,2022,2066
+146,21,Kepulauan Riau,2022,2020
+147,31,DKI Jakarta,2022,2147
+148,32,Jawa Barat,2022,2116
+149,33,Jawa Tengah,2022,2003
+150,34,DI Yogyakarta,2022,2024
+151,35,Jawa Timur,2022,2042
+152,36,Banten,2022,2270
+153,51,Bali,2022,2146
+154,52,Nusa Tenggara Barat,2022,2460
+155,53,Nusa Tenggara Timur,2022,1974
+156,61,Kalimantan Barat,2022,1892
+157,62,Kalimantan Tengah,2022,2116
+158,63,Kalimantan Selatan,2022,2189
+159,64,Kalimantan Timur,2022,1974
+160,65,Kalimantan Utara,2022,1858
+161,71,Sulawesi Utara,2022,2155
+162,72,Sulawesi Tengah,2022,2001
+163,73,Sulawesi Selatan,2022,2078
+164,74,Sulawesi Tenggara,2022,1949
+165,75,Gorontalo,2022,1958
+166,76,Sulawesi Barat,2022,2083
+167,81,Maluku,2022,1837
+168,82,Maluku Utara,2022,1844
+169,91,Papua Barat,2022,1880
+170,94,Papua,2022,1902
+171,11,Aceh,2023,2053
+172,12,Sumatera Utara,2023,2094
+173,13,Sumatera Barat,2023,2086
+174,14,Riau,2023,2048
+175,15,Jambi,2023,2043
+176,16,Sumatera Selatan,2023,2191
+177,17,Bengkulu,2023,2060
+178,18,Lampung,2023,2096
+179,19,Kepulauan Bangka Belitung,2023,2059
+180,21,Kepulauan Riau,2023,2048
+181,31,DKI Jakarta,2023,2158
+182,32,Jawa Barat,2023,2110
+183,33,Jawa Tengah,2023,2025
+184,34,DI Yogyakarta,2023,2053
+185,35,Jawa Timur,2023,2068
+186,36,Banten,2023,2207
+187,51,Bali,2023,2264
+188,52,Nusa Tenggara Barat,2023,2485
+189,53,Nusa Tenggara Timur,2023,1938
+190,61,Kalimantan Barat,2023,1920
+191,62,Kalimantan Tengah,2023,2134
+192,63,Kalimantan Selatan,2023,2167
+193,64,Kalimantan Timur,2023,2009
+194,65,Kalimantan Utara,2023,1891
+195,71,Sulawesi Utara,2023,2105
+196,72,Sulawesi Tengah,2023,2055
+197,73,Sulawesi Selatan,2023,2110
+198,74,Sulawesi Tenggara,2023,2019
+199,75,Gorontalo,2023,1996
+200,76,Sulawesi Barat,2023,2100
+201,81,Maluku,2023,1820
+202,82,Maluku Utara,2023,1823
+203,91,Papua Barat,2023,1860
+204,94,Papua,2023,1903
+205,11,Aceh,2024,1990
+206,12,Sumatera Utara,2024,2042
+207,13,Sumatera Barat,2024,2033
+208,14,Riau,2024,2017
+209,15,Jambi,2024,2012
+210,16,Sumatera Selatan,2024,2196
+211,17,Bengkulu,2024,2032
+212,18,Lampung,2024,2006
+213,19,Kepulauan Bangka Belitung,2024,1992
+214,21,Kepulauan Riau,2024,2050
+215,31,DKI Jakarta,2024,2073
+216,32,Jawa Barat,2024,2070
+217,33,Jawa Tengah,2024,1993
+218,34,DI Yogyakarta,2024,2016
+219,35,Jawa Timur,2024,2046
+220,36,Banten,2024,2184
+221,51,Bali,2024,2295
+222,52,Nusa Tenggara Barat,2024,2419
+223,53,Nusa Tenggara Timur,2024,1930
+224,61,Kalimantan Barat,2024,1903
+225,62,Kalimantan Tengah,2024,2051
+226,63,Kalimantan Selatan,2024,2198
+227,64,Kalimantan Timur,2024,1950
+228,65,Kalimantan Utara,2024,1870
+229,71,Sulawesi Utara,2024,2012
+230,72,Sulawesi Tengah,2024,2033
+231,73,Sulawesi Selatan,2024,2064
+232,74,Sulawesi Tenggara,2024,1955
+233,75,Gorontalo,2024,1938
+234,76,Sulawesi Barat,2024,2069
+235,81,Maluku,2024,1792
+236,82,Maluku Utara,2024,1801
+237,91,Papua Barat,2024,1770
+238,94,Papua,2024,1783
+239,,Papua Barat Daya,2024,1890
+240,,Papua Tengah,2024,1696
+241,,Papua Pegunungan,2024,2190
+242,,Papua Selatan,2024,1791

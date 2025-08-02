@@ -1,0 +1,198 @@
+No,Wilayah,Provinsi,Tahun,Ketersediaan Energi Nabati,Ketersediaan Energi Hewani,Ketersediaan Energi,Satuan,Keterangan
+1,Nasional,,2018,2726,249,2974,kkal/kap/hari,Angka tetap
+2,Nasional,,2019,2595,263,2858,kkal/kap/hari,Angka tetap
+3,Nasional,,2020,2624,251,2875,kkal/kap/hari,Angka tetap
+4,Nasional,,2021,2856,263,3119,kkal/kap/hari,Angka tetap
+5,Nasional,,2022,2907,254,3161,kkal/kap/hari,Angka tetap
+6,Nasional,,2023,2820,259,3079,kkal/kap/hari,Angka sementara
+7,Nasional,,2024,2602,245,2847,kkal/kap/hari,Angka sangat sementara
+8,Provinsi,Aceh,2019,3040,172,3212,kkal/kap/hari,Angka tetap
+9,Provinsi,Sumatera Utara,2019,4202,160,4362,kkal/kap/hari,Angka tetap
+10,Provinsi,Sumatera Barat,2019,2311,243,2554,kkal/kap/hari,Angka tetap
+11,Provinsi,Riau,2019,2958,223,3181,kkal/kap/hari,Angka tetap
+12,Provinsi,Jambi,2019,2864,189,3053,kkal/kap/hari,Angka tetap
+13,Provinsi,Sumatera Selatan,2019,1933,264,2197,kkal/kap/hari,Angka tetap
+14,Provinsi,Bengkulu,2019,2179,284,2463,kkal/kap/hari,Angka tetap
+15,Provinsi,Lampung,2019,2571,124,2695,kkal/kap/hari,Angka tetap
+16,Provinsi,Kep Bangka Belitung,2019,2482,311,2793,kkal/kap/hari,Angka tetap
+17,Provinsi,Kep Riau,2019,2022,444,2466,kkal/kap/hari,Angka tetap
+18,Provinsi,DKI Jakarta,2019,2843,1982,4825,kkal/kap/hari,Angka tetap
+19,Provinsi,Jawa Barat,2019,2328,217,2545,kkal/kap/hari,Angka tetap
+20,Provinsi,Jawa Tengah,2019,3925,130,4055,kkal/kap/hari,Angka tetap
+21,Provinsi,Jawa Timur,2019,2103,169,2272,kkal/kap/hari,Angka tetap
+22,Provinsi,DI Yogyakarta,2019,3404,322,3726,kkal/kap/hari,Angka tetap
+23,Provinsi,Banten,2019,2384,297,2680,kkal/kap/hari,Angka tetap
+24,Provinsi,Bali,2019,2108,538,2646,kkal/kap/hari,Angka tetap
+25,Provinsi,NTB,2019,5577,1704,7281,kkal/kap/hari,Angka tetap
+26,Provinsi,NTT,2019,3766,180,3946,kkal/kap/hari,Angka tetap
+27,Provinsi,Kalimantan Barat,2019,3183,279,3462,kkal/kap/hari,Angka tetap
+28,Provinsi,Kalimantan Tengah,2019,3294,602,3896,kkal/kap/hari,Angka tetap
+29,Provinsi,Kalimantan Selatan,2019,3061,142,3203,kkal/kap/hari,Angka tetap
+30,Provinsi,Kalimantan Timur,2019,2377,292,2669,kkal/kap/hari,Angka tetap
+31,Provinsi,Kalimantan Utara,2019,2321,1482,3803,kkal/kap/hari,Angka tetap
+32,Provinsi,Sulawesi Utara,2019,2393,375,2768,kkal/kap/hari,Angka tetap
+33,Provinsi,Sulawesi Tengah,2019,6463,200,6663,kkal/kap/hari,Angka tetap
+34,Provinsi,Sulawesi Selatan,2019,3328,244,3572,kkal/kap/hari,Angka tetap
+35,Provinsi,Sulawesi Tenggara,2019,3110,229,3339,kkal/kap/hari,Angka tetap
+36,Provinsi,Gorontalo,2019,2774,333,3107,kkal/kap/hari,Angka tetap
+37,Provinsi,Sulawesi Barat,2019,3585,151,3736,kkal/kap/hari,Angka tetap
+38,Provinsi,Maluku,2019,2234,474,2708,kkal/kap/hari,Angka tetap
+39,Provinsi,Maluku Utara,2019,2260,399,2659,kkal/kap/hari,Angka tetap
+40,Provinsi,Papua Barat,2019,2589,321,2910,kkal/kap/hari,Angka tetap
+41,Provinsi,Papua,2019,2933,422,3355,kkal/kap/hari,Angka tetap
+42,Provinsi,Papua Tengah,2019,,,0,kkal/kap/hari,Angka tetap
+43,Provinsi,Papua Selatan,2019,,,0,kkal/kap/hari,Angka tetap
+44,Provinsi,Papua Pegunungan,2019,,,0,kkal/kap/hari,Angka tetap
+45,Provinsi,Papua Barat Daya,2019,,,0,kkal/kap/hari,Angka tetap
+46,Provinsi,Aceh,2020,2815,269,3084,kkal/kap/hari,Angka tetap
+47,Provinsi,Sumatera Utara,2020,2907,217,3124,kkal/kap/hari,Angka tetap
+48,Provinsi,Sumatera Barat,2020,2639,279,2918,kkal/kap/hari,Angka tetap
+49,Provinsi,Riau,2020,2952,237,3189,kkal/kap/hari,Angka tetap
+50,Provinsi,Jambi,2020,2875,183,3058,kkal/kap/hari,Angka tetap
+51,Provinsi,Sumatera Selatan,2020,1857,271,2128,kkal/kap/hari,Angka tetap
+52,Provinsi,Bengkulu,2020,2179,284,2463,kkal/kap/hari,Angka tetap
+53,Provinsi,Lampung,2020,2504,157,2661,kkal/kap/hari,Angka tetap
+54,Provinsi,Kep Bangka Belitung,2020,2229,251,2481,kkal/kap/hari,Angka tetap
+55,Provinsi,Kep Riau,2020,1992,490,2482,kkal/kap/hari,Angka tetap
+56,Provinsi,DKI Jakarta,2020,2664,2438,5102,kkal/kap/hari,Angka tetap
+57,Provinsi,Jawa Barat,2020,2434,208,2642,kkal/kap/hari,Angka tetap
+58,Provinsi,Jawa Tengah,2020,3885,141,4026,kkal/kap/hari,Angka tetap
+59,Provinsi,Jawa Timur,2020,2231,164,2395,kkal/kap/hari,Angka tetap
+60,Provinsi,DI Yogyakarta,2020,3398,272,3670,kkal/kap/hari,Angka tetap
+61,Provinsi,Banten,2020,2339,261,2600,kkal/kap/hari,Angka tetap
+62,Provinsi,Bali,2020,2141,515,2656,kkal/kap/hari,Angka tetap
+63,Provinsi,NTB,2020,4335,1773,6108,kkal/kap/hari,Angka tetap
+64,Provinsi,NTT,2020,3660,159,3819,kkal/kap/hari,Angka tetap
+65,Provinsi,Kalimantan Barat,2020,3042,187,3229,kkal/kap/hari,Angka tetap
+66,Provinsi,Kalimantan Tengah,2020,2847,384,3231,kkal/kap/hari,Angka tetap
+67,Provinsi,Kalimantan Selatan,2020,2073,284,2357,kkal/kap/hari,Angka tetap
+68,Provinsi,Kalimantan Timur,2020,2508,690,3198,kkal/kap/hari,Angka tetap
+69,Provinsi,Kalimantan Utara,2020,2607,245,2852,kkal/kap/hari,Angka tetap
+70,Provinsi,Sulawesi Utara,2020,2168,634,2802,kkal/kap/hari,Angka tetap
+71,Provinsi,Sulawesi Tengah,2020,6495,179,6674,kkal/kap/hari,Angka tetap
+72,Provinsi,Sulawesi Selatan,2020,3060,612,3672,kkal/kap/hari,Angka tetap
+73,Provinsi,Sulawesi Tenggara,2020,3720,206,3926,kkal/kap/hari,Angka tetap
+74,Provinsi,Gorontalo,2020,3121,418,3539,kkal/kap/hari,Angka tetap
+75,Provinsi,Sulawesi Barat,2020,1649,511,2160,kkal/kap/hari,Angka tetap
+76,Provinsi,Maluku,2020,1686,410,2096,kkal/kap/hari,Angka tetap
+77,Provinsi,Maluku Utara,2020,2477,422,2899,kkal/kap/hari,Angka tetap
+78,Provinsi,Papua Barat,2020,2589,321,2910,kkal/kap/hari,Angka tetap
+79,Provinsi,Papua,2020,2961,432,3393,kkal/kap/hari,Angka tetap
+80,Provinsi,Papua Tengah,2020,,,0,kkal/kap/hari,Angka tetap
+81,Provinsi,Papua Selatan,2020,,,0,kkal/kap/hari,Angka tetap
+82,Provinsi,Papua Pegunungan,2020,,,0,kkal/kap/hari,Angka tetap
+83,Provinsi,Papua Barat Daya,2020,,,0,kkal/kap/hari,Angka tetap
+84,Provinsi,Aceh,2021,3574,269,3843,kkal/kap/hari,Angka tetap
+85,Provinsi,Sumatera Utara,2021,3874,194,4068,kkal/kap/hari,Angka tetap
+86,Provinsi,Sumatera Barat,2021,2356,706,3062,kkal/kap/hari,Angka tetap
+87,Provinsi,Riau,2021,2595,246,2841,kkal/kap/hari,Angka tetap
+88,Provinsi,Jambi,2021,2424,215,2639,kkal/kap/hari,Angka tetap
+89,Provinsi,Sumatera Selatan,2021,1891,290,2181,kkal/kap/hari,Angka tetap
+90,Provinsi,Bengkulu,2021,2212,291,2503,kkal/kap/hari,Angka tetap
+91,Provinsi,Lampung,2021,2952,230,3182,kkal/kap/hari,Angka tetap
+92,Provinsi,Kep Bangka Belitung,2021,1702,698,2400,kkal/kap/hari,Angka tetap
+93,Provinsi,Kep Riau,2021,2302,375,2677,kkal/kap/hari,Angka tetap
+94,Provinsi,DKI Jakarta,2021,2287,253,2540,kkal/kap/hari,Angka tetap
+95,Provinsi,Jawa Barat,2021,2164,251,2415,kkal/kap/hari,Angka tetap
+96,Provinsi,Jawa Tengah,2021,3596,136,3732,kkal/kap/hari,Angka tetap
+97,Provinsi,Jawa Timur,2021,2970,215,3185,kkal/kap/hari,Angka tetap
+98,Provinsi,DI Yogyakarta,2021,3432,304,3736,kkal/kap/hari,Angka tetap
+99,Provinsi,Banten,2021,2325,258,2584,kkal/kap/hari,Angka tetap
+100,Provinsi,Bali,2021,2100,550,2650,kkal/kap/hari,Angka tetap
+101,Provinsi,NTB,2021,3474,26,3500,kkal/kap/hari,Angka tetap
+102,Provinsi,NTT,2021,3081,147,3228,kkal/kap/hari,Angka tetap
+103,Provinsi,Kalimantan Barat,2021,2224,225,2449,kkal/kap/hari,Angka tetap
+104,Provinsi,Kalimantan Tengah,2021,2847,384,3231,kkal/kap/hari,Angka tetap
+105,Provinsi,Kalimantan Selatan,2021,2848,142,2990,kkal/kap/hari,Angka tetap
+106,Provinsi,Kalimantan Timur,2021,2177,463,2640,kkal/kap/hari,Angka tetap
+107,Provinsi,Kalimantan Utara,2021,2532,279,2811,kkal/kap/hari,Angka tetap
+108,Provinsi,Sulawesi Utara,2021,2329,483,2812,kkal/kap/hari,Angka tetap
+109,Provinsi,Sulawesi Tengah,2021,5480,168,5648,kkal/kap/hari,Angka tetap
+110,Provinsi,Sulawesi Selatan,2021,2992,176,3168,kkal/kap/hari,Angka tetap
+111,Provinsi,Sulawesi Tenggara,2021,3313,210,3523,kkal/kap/hari,Angka tetap
+112,Provinsi,Gorontalo,2021,2795,196,2991,kkal/kap/hari,Angka tetap
+113,Provinsi,Sulawesi Barat,2021,3391,107,3498,kkal/kap/hari,Angka tetap
+114,Provinsi,Maluku,2021,2195,945,3140,kkal/kap/hari,Angka tetap
+115,Provinsi,Maluku Utara,2021,2593,407,3000,kkal/kap/hari,Angka tetap
+116,Provinsi,Papua Barat,2021,2374,379,2753,kkal/kap/hari,Angka tetap
+117,Provinsi,Papua,2021,3039,439,3478,kkal/kap/hari,Angka tetap
+118,Provinsi,Papua Tengah,2021,,,0,kkal/kap/hari,Angka tetap
+119,Provinsi,Papua Selatan,2021,,,0,kkal/kap/hari,Angka tetap
+120,Provinsi,Papua Pegunungan,2021,,,0,kkal/kap/hari,Angka tetap
+121,Provinsi,Papua Barat Daya,2021,,,0,kkal/kap/hari,Angka tetap
+122,Provinsi,Aceh,2022,3566,221,3787,kkal/kap/hari,Angka sementara
+123,Provinsi,Sumatera Utara,2022,4012,257,4269,kkal/kap/hari,Angka sementara
+124,Provinsi,Sumatera Barat,2022,2863,307,3170,kkal/kap/hari,Angka sementara
+125,Provinsi,Riau,2022,4864,246,5110,kkal/kap/hari,Angka sementara
+126,Provinsi,Jambi,2022,2462,190,2652,kkal/kap/hari,Angka sementara
+127,Provinsi,Sumatera Selatan,2022,2405,429,2834,kkal/kap/hari,Angka sementara
+128,Provinsi,Bengkulu,2022,2541,713,3254,kkal/kap/hari,Angka sementara
+129,Provinsi,Lampung,2022,3215,235,3450,kkal/kap/hari,Angka sementara
+130,Provinsi,Kep Bangka Belitung,2022,1977,812,2790,kkal/kap/hari,Angka sementara
+131,Provinsi,Kep Riau,2022,2302,375,2677,kkal/kap/hari,Angka sementara
+132,Provinsi,DKI Jakarta,2022,1853,295,2148,kkal/kap/hari,Angka sementara
+133,Provinsi,Jawa Barat,2022,2366,270,2636,kkal/kap/hari,Angka sementara
+134,Provinsi,Jawa Tengah,2022,1082,1581,2663,kkal/kap/hari,Angka sementara
+135,Provinsi,Jawa Timur,2022,2970,215,3185,kkal/kap/hari,Angka sementara
+136,Provinsi,DI Yogyakarta,2022,3455,277,3732,kkal/kap/hari,Angka sementara
+137,Provinsi,Banten,2022,2386,288,2674,kkal/kap/hari,Angka sementara
+138,Provinsi,Bali,2022,2121,534,2655,kkal/kap/hari,Angka sementara
+139,Provinsi,NTB,2022,2770,5,2775,kkal/kap/hari,Angka sementara
+140,Provinsi,NTT,2022,3042,109,3151,kkal/kap/hari,Angka sementara
+141,Provinsi,Kalimantan Barat,2022,2320,269,2589,kkal/kap/hari,Angka sementara
+142,Provinsi,Kalimantan Tengah,2022,2148,411,2559,kkal/kap/hari,Angka sementara
+143,Provinsi,Kalimantan Selatan,2022,2507,282,2789,kkal/kap/hari,Angka sementara
+144,Provinsi,Kalimantan Timur,2022,2124,382,2506,kkal/kap/hari,Angka sementara
+145,Provinsi,Kalimantan Utara,2022,2538,264,2802,kkal/kap/hari,Angka sementara
+146,Provinsi,Sulawesi Utara,2022,2306,261,2567,kkal/kap/hari,Angka sementara
+147,Provinsi,Sulawesi Tengah,2022,4977,332,5309,kkal/kap/hari,Angka sementara
+148,Provinsi,Sulawesi Selatan,2022,2967,625,3592,kkal/kap/hari,Angka sementara
+149,Provinsi,Sulawesi Tenggara,2022,3174,207,3381,kkal/kap/hari,Angka sementara
+150,Provinsi,Gorontalo,2022,3952,899,4851,kkal/kap/hari,Angka sementara
+151,Provinsi,Sulawesi Barat,2022,3391,107,3498,kkal/kap/hari,Angka sementara
+152,Provinsi,Maluku,2022,2298,509,2807,kkal/kap/hari,Angka sementara
+153,Provinsi,Maluku Utara,2022,2126,461,2587,kkal/kap/hari,Angka sementara
+154,Provinsi,Papua Barat,2022,2103,339,2442,kkal/kap/hari,Angka sementara
+155,Provinsi,Papua,2022,1994,204,2198,kkal/kap/hari,Angka sementara
+156,Provinsi,Papua Tengah,2022,,,0,kkal/kap/hari,Angka sementara
+157,Provinsi,Papua Selatan,2022,,,0,kkal/kap/hari,Angka sementara
+158,Provinsi,Papua Pegunungan,2022,,,0,kkal/kap/hari,Angka sementara
+159,Provinsi,Papua Barat Daya,2022,,,0,kkal/kap/hari,Angka sementara
+160,Provinsi,Aceh,2023,3496,309,3805,kkal/kap/hari,Angka sangat sementara
+161,Provinsi,Sumatera Utara,2023,2756,223,2979,kkal/kap/hari,Angka sangat sementara
+162,Provinsi,Sumatera Barat,2023,3049,303,3352,kkal/kap/hari,Angka sangat sementara
+163,Provinsi,Riau,2023,2157,290,2447,kkal/kap/hari,Angka sangat sementara
+164,Provinsi,Jambi,2023,2605,214,2819,kkal/kap/hari,Angka sangat sementara
+165,Provinsi,Sumatera Selatan,2023,1346,503,1850,kkal/kap/hari,Angka sangat sementara
+166,Provinsi,Bengkulu,2023,2191,375,2566,kkal/kap/hari,Angka sangat sementara
+167,Provinsi,Lampung,2023,3293,265,3558,kkal/kap/hari,Angka sangat sementara
+168,Provinsi,Kep Bangka Belitung,2023,2169,1010,3179,kkal/kap/hari,Angka sangat sementara
+169,Provinsi,Kep Riau,2023,2131,394,2525,kkal/kap/hari,Angka sangat sementara
+170,Provinsi,DKI Jakarta,2023,3091,79,3170,kkal/kap/hari,Angka sangat sementara
+171,Provinsi,Jawa Barat,2023,2323,264,2587,kkal/kap/hari,Angka sangat sementara
+172,Provinsi,Jawa Tengah,2023,3789,123,3912,kkal/kap/hari,Angka sangat sementara
+173,Provinsi,Jawa Timur,2023,4045,243,4288,kkal/kap/hari,Angka sangat sementara
+174,Provinsi,DI Yogyakarta,2023,3462,273,3735,kkal/kap/hari,Angka sangat sementara
+175,Provinsi,Banten,2023,2386,288,2674,kkal/kap/hari,Angka sangat sementara
+176,Provinsi,Bali,2023,1984,688,2672,kkal/kap/hari,Angka sangat sementara
+177,Provinsi,NTB,2023,3586,356,3942,kkal/kap/hari,Angka sangat sementara
+178,Provinsi,NTT,2023,2981,114,3095,kkal/kap/hari,Angka sangat sementara
+179,Provinsi,Kalimantan Barat,2023,2418,226,2644,kkal/kap/hari,Angka sangat sementara
+180,Provinsi,Kalimantan Tengah,2023,1886,579,2465,kkal/kap/hari,Angka sangat sementara
+181,Provinsi,Kalimantan Selatan,2023,2294,275,2569,kkal/kap/hari,Angka sangat sementara
+182,Provinsi,Kalimantan Timur,2023,2180,507,2687,kkal/kap/hari,Angka sangat sementara
+183,Provinsi,Kalimantan Utara,2023,2782,236,3018,kkal/kap/hari,Angka sangat sementara
+184,Provinsi,Sulawesi Utara,2023,2455,355,2810,kkal/kap/hari,Angka sangat sementara
+185,Provinsi,Sulawesi Tengah,2023,3562,203,3765,kkal/kap/hari,Angka sangat sementara
+186,Provinsi,Sulawesi Selatan,2023,4105,221,4326,kkal/kap/hari,Angka sangat sementara
+187,Provinsi,Sulawesi Tenggara,2023,2923,182,3105,kkal/kap/hari,Angka sangat sementara
+188,Provinsi,Gorontalo,2023,3944,891,4835,kkal/kap/hari,Angka sangat sementara
+189,Provinsi,Sulawesi Barat,2023,3547,275,3822,kkal/kap/hari,Angka sangat sementara
+190,Provinsi,Maluku,2023,2500,476,2976,kkal/kap/hari,Angka sangat sementara
+191,Provinsi,Maluku Utara,2023,2302,371,2673,kkal/kap/hari,Angka sangat sementara
+192,Provinsi,Papua Barat,2023,2182,313,2495,kkal/kap/hari,Angka sangat sementara
+193,Provinsi,Papua,2023,2109,252,2361,kkal/kap/hari,Angka sangat sementara
+194,Provinsi,Papua Tengah,2023,,,0,kkal/kap/hari,Angka sangat sementara
+195,Provinsi,Papua Selatan,2023,,,0,kkal/kap/hari,Angka sangat sementara
+196,Provinsi,Papua Pegunungan,2023,,,0,kkal/kap/hari,Angka sangat sementara
+197,Provinsi,Papua Barat Daya,2023,,,0,kkal/kap/hari,Angka sangat sementara
