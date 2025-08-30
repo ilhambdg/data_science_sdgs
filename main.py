@@ -50,6 +50,9 @@ df_predict = df_predict[df_predict['Jumlah_Penduduk'] > df_predict['Penduduk_Und
 
 df_2023 = df_predict[df_predict['Tahun'] == 2023].sort_values(by='persentase_penduduk_gizi_cukup', ascending=False).to_numpy()
 
+# badge warna 
+
+
 # === Fungsi evaluasi ===
 def evaluate_model(y_true, y_pred):
     y_true, y_pred = np.array(y_true), np.array(y_pred)
@@ -91,7 +94,7 @@ def predict_with(df, year_col, value_col, label, groupby_avg=True):
     return output
 
 # === Fungsi Prophet + visualisasi ===
-def predict_with_prophet(df, year_col, value_col, label, groupby_avg=True):
+def predict_with_prophet(df, year_col, value_col, label, badge, groupby_avg=True):
     df = df[[year_col, value_col]].copy()
     df[value_col] = pd.to_numeric(df[value_col], errors="coerce")
     df = df.replace(0, np.nan)
@@ -125,9 +128,18 @@ def predict_with_prophet(df, year_col, value_col, label, groupby_avg=True):
         st.write(f"**MAPE**: {mape:.2f}%")
         st.write(f"**RMSPE**: {rmspe:.2f}%")
 
+    if badge == 'baik':
+        st.badge("Baik", icon=":material/check:", color="green")
+    elif badge == 'stagnan':
+        st.badge("Stagnan", icon=":material/warning:", color="gray")
+    elif badge == 'buruk':
+        st.badge("Buruk", icon=":material/error:", color="red")
+    else: ''
+
     fig = go.Figure()
     fig.add_trace(go.Scatter(x=df["ds"], y=df["y"], mode='markers+lines', name='Aktual', line=dict(color='blue')))
     fig.add_trace(go.Scatter(x=forecast["ds"], y=forecast["yhat"], mode='lines', name='Prediksi', line=dict(color='orange', dash='dash')))
+
 
     fig.update_layout(
         title=f'📈 Prediksi vs Aktual - {label}',
@@ -142,15 +154,19 @@ def predict_with_prophet(df, year_col, value_col, label, groupby_avg=True):
 
     return output
  
-def predict_with_Randomforest(df, target, fitur_col, df_predik, label, groupby_avg=True):
+def predict_with_Randomforest(df, target, fitur_col, df_predik, label, badge, groupby_avg=True):
     if "Tahun" not in fitur_col:
         fitur_col = ["Tahun"] + fitur_col
 
     df = df[fitur_col + [target]].copy()
     df_predik = df_predik[fitur_col].copy()
 
+    #menyamakan data aktual
+    df[target] = pd.to_numeric(df[target], errors="coerce")
+    df = df.replace(0, np.nan)
     if groupby_avg:
         df = df.groupby("Tahun").mean().reset_index()
+    df = df.dropna()
 
     model = RandomForestRegressor()
     model.fit(df[fitur_col], df[target])
@@ -176,9 +192,16 @@ def predict_with_Randomforest(df, target, fitur_col, df_predik, label, groupby_a
         st.write(f"**MAPE**: {mape:.2f}%")
         st.write(f"**RMSPE**: {rmspe:.2f}%")
 
+    if badge == 'baik':
+        st.badge("Baik", icon=":material/check:", color="green")
+    elif badge == 'stagnan':
+        st.badge("Stagnan", icon=":material/warning:", color="gray")
+    else:
+        st.badge("Buruk", icon=":material/error:", color="red")
+
     fig = go.Figure()
-    fig.add_trace(go.Scatter(x=tahun_all, y=aktual_all, name="Aktual", mode="markers+lines", line=dict(color="blue")))
-    fig.add_trace(go.Scatter(x=tahun_all, y=pred_all, name="Prediksi", mode="lines+markers", line=dict(color="orange", dash="dash")))
+    fig.add_trace(go.Scatter(x=tahun_train, y=aktual_all, name="Aktual", mode="markers+lines", line=dict(color="blue")))
+    fig.add_trace(go.Scatter(x=tahun_all, y=pred_all, name="Prediksi", mode="lines", line=dict(color="orange", dash="dash")))
 
     fig.update_layout(title=f"📈 Prediksi vs Aktual - {label}",
                       xaxis_title="Tahun", yaxis_title=target,
@@ -194,6 +217,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+
 
 ## pilihan layar di samping
 with st.container():
@@ -321,10 +346,10 @@ elif halaman == "Korelasi Data":
 
     col1, col2 = st.columns(2)
     with col1:
-        st.container(border=True).subheader('Top Provinsi gizi tercukupi 2023:')
+        st.container(border=True).subheader('Top provinsi gizi tercukupi (2023):')
         st.container(border=True).write(f'{df_2023[0,1]}, {df_2023[0,15]}% \n\n {df_2023[1,1]}, {df_2023[1,15]}% \n\n {df_2023[2,1]}, {df_2023[2,15]}% \n\n {df_2023[3,1]}, {df_2023[3,15]}% \n\n ')
     with col2:
-        st.container(border=True).subheader('top provinsi kurang gizi:')
+        st.container(border=True).subheader('top provinsi kurang gizi (2023):')
         st.container(border=True).write(f'{df_2023[32,1]}, {df_2023[32,15]}% \n\n {df_2023[31,1]}, {df_2023[31,15]}% \n\n {df_2023[30,1]}, {df_2023[30,15]}% \n\n {df_2023[29,1]}, {df_2023[29,15]}% \n\n ')
     
 
@@ -385,6 +410,17 @@ elif halaman == "Korelasi Data":
 else:
     st.header('Prediksi data by model')
     st.write('(model prediksi mengambil rata-rata provinsi)')
+    col1, col2, col3 = st.columns(3)
+    with col1 :
+        st.badge("Baik", icon=":material/check:", color="green")
+        st.write('Tren positif bisa dipertahankan dan dapat menjadi acuan solusi!')
+    with col2:
+        st.badge("Stagnan", icon=":material/warning:", color="gray")
+        st.write('Tren stagnan memerlukan intervensi untuk peningkatan lebih baik!')
+    with col3:
+        st.badge("Buruk", icon=":material/error:", color="red")
+        st.write('Tren negatif memerlukan intervensi secepatnya dalam kebijakan solusi!')
+
     st.write('---')
     st.sidebar.write('---')
     st.sidebar.title('Prophet & Random Forest')
@@ -393,12 +429,12 @@ else:
     if fitur == 'satu fitur':
         st.container(border=True).write('Data yang di prediksi: \n\n IKP, PoU, persentase penduduk kurang gizi, Skor PPH, Konsumsi energi, jumlah penduduk')
         st.subheader('Prophet')
-        predict_with_prophet(df_predict, "Tahun", "IKP", "Indeks Ketahanan Pangan")
-        predict_with_prophet(df_predict, "Tahun", "PoU", "PoU")
-        predict_with_prophet(df_predict, "Tahun", "persentase_penduduk_kurang_gizi", "Kurang Gizi")
-        predict_with_prophet(df_predict, "Tahun", "Skor PPH", "PPH")
-        predict_with_prophet(df_predict, "Tahun", "Konsumsi Energi (kkal/kap/hari)", "Konsumsi Energi")
-        predict_with_prophet(df_predict, "Tahun", "Jumlah_Penduduk", "Jumlah Penduduk")
+        predict_with_prophet(df_predict, "Tahun", "IKP", 'IKP', 'baik')
+        predict_with_prophet(df_predict, "Tahun", "PoU", "PoU", 'buruk')
+        predict_with_prophet(df_predict, "Tahun", "persentase_penduduk_kurang_gizi", "Kurang Gizi", 'buruk')
+        predict_with_prophet(df_predict, "Tahun", "Skor PPH", "PPH", 'baik')
+        predict_with_prophet(df_predict, "Tahun", "Konsumsi Energi (kkal/kap/hari)", "Konsumsi Energi", 'buruk')
+        predict_with_prophet(df_predict, "Tahun", "Jumlah_Penduduk", "Jumlah Penduduk", 'mid')
     
      
         st.subheader("📅 Tabel Prediksi Prophet sampai 2025")
@@ -456,9 +492,11 @@ else:
             'Jumlah_Penduduk'
         ]
         # data latih
-        predict_with_Randomforest(df_predict, 'IKP', fitur_rf, df_predik_rf, 'IKP')
+        predict_with_Randomforest(df_predict, "IKP", fitur_rf, df_predik_rf, "IKP", 'stagnan')
+   
         
-        predict_with_Randomforest(df_predict, 'PoU', fitur_XG, df_predik_XG, 'PoU')
+        predict_with_Randomforest(df_predict, 'PoU', fitur_XG, df_predik_XG, 'PoU', 'buruk')
+        
         ##################################################
 
 
@@ -467,11 +505,14 @@ else:
         st.subheader("📅 Tabel Prediksi Prophet sampai 2025")
         st.dataframe(final_df.round(2), use_container_width=True)
         st.write('Saya mengambil data dari prophet untuk di jadikan input Randomforest')
-    
-    
-# Jalankan prediksi untuk tiap fitur
-   
-
+       
+    st.write('---')
+    st.write('Berdasarkan visualisasi data prediksi nasional, terjadi tren peningkatan jumlah penduduk yang cukup tinggi bersamaan dengan tren peningkatan PoU yang menandakan tingkat kenaikan persentase penduduk kurang gizi ' \
+    'dapat terbilang sangat tinggi dibanding tren persentase penduduk gizi terpenuhi.')
+    st.write('Korelasi fitur pada heatmap juga menunjukan adanya korelasi linear positif ataupu negatif, antar beberapa fitur.')
+    st.write('Tren yang memerlukan intervensi segera, yakni konsumsi energi, presentase penduduk kurang gizi/PoU dilanjutkan dengan indeks ketahanan pangan,' \
+    ' solusi yang dapat diberikan dilakukannya penurunan masal pada penduduk miskin yang berpotensi kekurangan gizi dengan cara dilakukan vertilisasi pada pria dan juga wanita' \
+    ' selanjutnya untuk ketahanan pangan dapat dilakukan distribusi pangan dari provinsi teratas untuk provinsi terbawah.')
 
     
 
