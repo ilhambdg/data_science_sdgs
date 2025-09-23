@@ -9,7 +9,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 from functools import reduce
 import matplotlib.pyplot as plt
 import streamlit as st
-import plotly_express as px
+import plotly.express as px
 import altair as alt
 import plotly.graph_objs as go
 import seaborn as sns
