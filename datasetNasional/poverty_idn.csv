@@ -1,0 +1,523 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Indonesia,IDN,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,19.41083
+Indonesia,IDN,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,20.23793
+Indonesia,IDN,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,21.89212
+Indonesia,IDN,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,23.54632
+Indonesia,IDN,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,25.20051
+Indonesia,IDN,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,26.85471
+Indonesia,IDN,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,28.5089
+Indonesia,IDN,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,30.1631
+Indonesia,IDN,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,31.81729
+Indonesia,IDN,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,33.47149
+Indonesia,IDN,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,35.12568
+Indonesia,IDN,2024,Income share held by second 20%,SI.DST.02ND.20,11.8
+Indonesia,IDN,2023,Income share held by second 20%,SI.DST.02ND.20,11.6
+Indonesia,IDN,2022,Income share held by second 20%,SI.DST.02ND.20,11.7
+Indonesia,IDN,2021,Income share held by second 20%,SI.DST.02ND.20,11.6
+Indonesia,IDN,2020,Income share held by second 20%,SI.DST.02ND.20,11.5
+Indonesia,IDN,2019,Income share held by second 20%,SI.DST.02ND.20,11.5
+Indonesia,IDN,2018,Income share held by second 20%,SI.DST.02ND.20,11.3
+Indonesia,IDN,2017,Income share held by second 20%,SI.DST.02ND.20,11.2
+Indonesia,IDN,2016,Income share held by second 20%,SI.DST.02ND.20,11.1
+Indonesia,IDN,2015,Income share held by second 20%,SI.DST.02ND.20,11
+Indonesia,IDN,2014,Income share held by second 20%,SI.DST.02ND.20,10.6
+Indonesia,IDN,2013,Income share held by second 20%,SI.DST.02ND.20,10.6
+Indonesia,IDN,2012,Income share held by second 20%,SI.DST.02ND.20,11.1
+Indonesia,IDN,2011,Income share held by second 20%,SI.DST.02ND.20,10.9
+Indonesia,IDN,2010,Income share held by second 20%,SI.DST.02ND.20,11.6
+Indonesia,IDN,2009,Income share held by second 20%,SI.DST.02ND.20,12.2
+Indonesia,IDN,2008,Income share held by second 20%,SI.DST.02ND.20,12.3
+Indonesia,IDN,2007,Income share held by second 20%,SI.DST.02ND.20,12.2
+Indonesia,IDN,2006,Income share held by second 20%,SI.DST.02ND.20,12.7
+Indonesia,IDN,2005,Income share held by second 20%,SI.DST.02ND.20,13.1
+Indonesia,IDN,2004,Income share held by second 20%,SI.DST.02ND.20,12.9
+Indonesia,IDN,2003,Income share held by second 20%,SI.DST.02ND.20,13.2
+Indonesia,IDN,2002,Income share held by second 20%,SI.DST.02ND.20,13
+Indonesia,IDN,2001,Income share held by second 20%,SI.DST.02ND.20,12.8
+Indonesia,IDN,2000,Income share held by second 20%,SI.DST.02ND.20,13
+Indonesia,IDN,1999,Income share held by second 20%,SI.DST.02ND.20,13
+Indonesia,IDN,1998,Income share held by second 20%,SI.DST.02ND.20,12.9
+Indonesia,IDN,1996,Income share held by second 20%,SI.DST.02ND.20,12
+Indonesia,IDN,1993,Income share held by second 20%,SI.DST.02ND.20,12.6
+Indonesia,IDN,1990,Income share held by second 20%,SI.DST.02ND.20,12.7
+Indonesia,IDN,1987,Income share held by second 20%,SI.DST.02ND.20,12.9
+Indonesia,IDN,1984,Income share held by second 20%,SI.DST.02ND.20,12.4
+Indonesia,IDN,2024,Income share held by third 20%,SI.DST.03RD.20,15.4
+Indonesia,IDN,2023,Income share held by third 20%,SI.DST.03RD.20,15.2
+Indonesia,IDN,2022,Income share held by third 20%,SI.DST.03RD.20,15.4
+Indonesia,IDN,2021,Income share held by third 20%,SI.DST.03RD.20,15.5
+Indonesia,IDN,2020,Income share held by third 20%,SI.DST.03RD.20,15.6
+Indonesia,IDN,2019,Income share held by third 20%,SI.DST.03RD.20,15.6
+Indonesia,IDN,2018,Income share held by third 20%,SI.DST.03RD.20,15.4
+Indonesia,IDN,2017,Income share held by third 20%,SI.DST.03RD.20,15.4
+Indonesia,IDN,2016,Income share held by third 20%,SI.DST.03RD.20,15.3
+Indonesia,IDN,2015,Income share held by third 20%,SI.DST.03RD.20,14.8
+Indonesia,IDN,2014,Income share held by third 20%,SI.DST.03RD.20,14.5
+Indonesia,IDN,2013,Income share held by third 20%,SI.DST.03RD.20,14.3
+Indonesia,IDN,2012,Income share held by third 20%,SI.DST.03RD.20,14.9
+Indonesia,IDN,2011,Income share held by third 20%,SI.DST.03RD.20,14.7
+Indonesia,IDN,2010,Income share held by third 20%,SI.DST.03RD.20,15.6
+Indonesia,IDN,2009,Income share held by third 20%,SI.DST.03RD.20,15.8
+Indonesia,IDN,2008,Income share held by third 20%,SI.DST.03RD.20,16.1
+Indonesia,IDN,2007,Income share held by third 20%,SI.DST.03RD.20,15.8
+Indonesia,IDN,2006,Income share held by third 20%,SI.DST.03RD.20,16.5
+Indonesia,IDN,2005,Income share held by third 20%,SI.DST.03RD.20,16.7
+Indonesia,IDN,2004,Income share held by third 20%,SI.DST.03RD.20,16.5
+Indonesia,IDN,2003,Income share held by third 20%,SI.DST.03RD.20,16.6
+Indonesia,IDN,2002,Income share held by third 20%,SI.DST.03RD.20,16.3
+Indonesia,IDN,2001,Income share held by third 20%,SI.DST.03RD.20,16.2
+Indonesia,IDN,2000,Income share held by third 20%,SI.DST.03RD.20,16.4
+Indonesia,IDN,1999,Income share held by third 20%,SI.DST.03RD.20,16.3
+Indonesia,IDN,1998,Income share held by third 20%,SI.DST.03RD.20,16.3
+Indonesia,IDN,1996,Income share held by third 20%,SI.DST.03RD.20,15.5
+Indonesia,IDN,1993,Income share held by third 20%,SI.DST.03RD.20,16.1
+Indonesia,IDN,1990,Income share held by third 20%,SI.DST.03RD.20,16.3
+Indonesia,IDN,1987,Income share held by third 20%,SI.DST.03RD.20,16.5
+Indonesia,IDN,1984,Income share held by third 20%,SI.DST.03RD.20,16.4
+Indonesia,IDN,2024,Income share held by fourth 20%,SI.DST.04TH.20,21
+Indonesia,IDN,2023,Income share held by fourth 20%,SI.DST.04TH.20,20.7
+Indonesia,IDN,2022,Income share held by fourth 20%,SI.DST.04TH.20,21.1
+Indonesia,IDN,2021,Income share held by fourth 20%,SI.DST.04TH.20,21.7
+Indonesia,IDN,2020,Income share held by fourth 20%,SI.DST.04TH.20,22
+Indonesia,IDN,2019,Income share held by fourth 20%,SI.DST.04TH.20,22.1
+Indonesia,IDN,2018,Income share held by fourth 20%,SI.DST.04TH.20,22
+Indonesia,IDN,2017,Income share held by fourth 20%,SI.DST.04TH.20,22
+Indonesia,IDN,2016,Income share held by fourth 20%,SI.DST.04TH.20,21.7
+Indonesia,IDN,2015,Income share held by fourth 20%,SI.DST.04TH.20,20.5
+Indonesia,IDN,2014,Income share held by fourth 20%,SI.DST.04TH.20,20.8
+Indonesia,IDN,2013,Income share held by fourth 20%,SI.DST.04TH.20,20.7
+Indonesia,IDN,2012,Income share held by fourth 20%,SI.DST.04TH.20,20.9
+Indonesia,IDN,2011,Income share held by fourth 20%,SI.DST.04TH.20,20.9
+Indonesia,IDN,2010,Income share held by fourth 20%,SI.DST.04TH.20,21.7
+Indonesia,IDN,2009,Income share held by fourth 20%,SI.DST.04TH.20,21.2
+Indonesia,IDN,2008,Income share held by fourth 20%,SI.DST.04TH.20,21.5
+Indonesia,IDN,2007,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Indonesia,IDN,2006,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Indonesia,IDN,2005,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Indonesia,IDN,2004,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Indonesia,IDN,2003,Income share held by fourth 20%,SI.DST.04TH.20,21.8
+Indonesia,IDN,2002,Income share held by fourth 20%,SI.DST.04TH.20,21.1
+Indonesia,IDN,2001,Income share held by fourth 20%,SI.DST.04TH.20,21.3
+Indonesia,IDN,2000,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Indonesia,IDN,1999,Income share held by fourth 20%,SI.DST.04TH.20,21.2
+Indonesia,IDN,1998,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Indonesia,IDN,1996,Income share held by fourth 20%,SI.DST.04TH.20,20.9
+Indonesia,IDN,1993,Income share held by fourth 20%,SI.DST.04TH.20,21.2
+Indonesia,IDN,1990,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Indonesia,IDN,1987,Income share held by fourth 20%,SI.DST.04TH.20,21.6
+Indonesia,IDN,1984,Income share held by fourth 20%,SI.DST.04TH.20,21.9
+Indonesia,IDN,2024,Income share held by highest 20%,SI.DST.05TH.20,43.6
+Indonesia,IDN,2023,Income share held by highest 20%,SI.DST.05TH.20,44.6
+Indonesia,IDN,2022,Income share held by highest 20%,SI.DST.05TH.20,44
+Indonesia,IDN,2021,Income share held by highest 20%,SI.DST.05TH.20,43.5
+Indonesia,IDN,2020,Income share held by highest 20%,SI.DST.05TH.20,43.3
+Indonesia,IDN,2019,Income share held by highest 20%,SI.DST.05TH.20,43.2
+Indonesia,IDN,2018,Income share held by highest 20%,SI.DST.05TH.20,44
+Indonesia,IDN,2017,Income share held by highest 20%,SI.DST.05TH.20,44.1
+Indonesia,IDN,2016,Income share held by highest 20%,SI.DST.05TH.20,44.6
+Indonesia,IDN,2015,Income share held by highest 20%,SI.DST.05TH.20,46.3
+Indonesia,IDN,2014,Income share held by highest 20%,SI.DST.05TH.20,46.7
+Indonesia,IDN,2013,Income share held by highest 20%,SI.DST.05TH.20,47
+Indonesia,IDN,2012,Income share held by highest 20%,SI.DST.05TH.20,45.4
+Indonesia,IDN,2011,Income share held by highest 20%,SI.DST.05TH.20,46
+Indonesia,IDN,2010,Income share held by highest 20%,SI.DST.05TH.20,42.9
+Indonesia,IDN,2009,Income share held by highest 20%,SI.DST.05TH.20,42.4
+Indonesia,IDN,2008,Income share held by highest 20%,SI.DST.05TH.20,41.6
+Indonesia,IDN,2007,Income share held by highest 20%,SI.DST.05TH.20,42.1
+Indonesia,IDN,2006,Income share held by highest 20%,SI.DST.05TH.20,40.6
+Indonesia,IDN,2005,Income share held by highest 20%,SI.DST.05TH.20,39.4
+Indonesia,IDN,2004,Income share held by highest 20%,SI.DST.05TH.20,39.9
+Indonesia,IDN,2003,Income share held by highest 20%,SI.DST.05TH.20,39
+Indonesia,IDN,2002,Income share held by highest 20%,SI.DST.05TH.20,40.1
+Indonesia,IDN,2001,Income share held by highest 20%,SI.DST.05TH.20,40.7
+Indonesia,IDN,2000,Income share held by highest 20%,SI.DST.05TH.20,39.9
+Indonesia,IDN,1999,Income share held by highest 20%,SI.DST.05TH.20,40.4
+Indonesia,IDN,1998,Income share held by highest 20%,SI.DST.05TH.20,40.3
+Indonesia,IDN,1996,Income share held by highest 20%,SI.DST.05TH.20,43.2
+Indonesia,IDN,1993,Income share held by highest 20%,SI.DST.05TH.20,41.2
+Indonesia,IDN,1990,Income share held by highest 20%,SI.DST.05TH.20,40.6
+Indonesia,IDN,1987,Income share held by highest 20%,SI.DST.05TH.20,39.9
+Indonesia,IDN,1984,Income share held by highest 20%,SI.DST.05TH.20,41
+Indonesia,IDN,2024,Income share held by highest 10%,SI.DST.10TH.10,28.8
+Indonesia,IDN,2023,Income share held by highest 10%,SI.DST.10TH.10,29.9
+Indonesia,IDN,2022,Income share held by highest 10%,SI.DST.10TH.10,29
+Indonesia,IDN,2021,Income share held by highest 10%,SI.DST.10TH.10,28.3
+Indonesia,IDN,2020,Income share held by highest 10%,SI.DST.10TH.10,27.9
+Indonesia,IDN,2019,Income share held by highest 10%,SI.DST.10TH.10,27.8
+Indonesia,IDN,2018,Income share held by highest 10%,SI.DST.10TH.10,28.5
+Indonesia,IDN,2017,Income share held by highest 10%,SI.DST.10TH.10,28.6
+Indonesia,IDN,2016,Income share held by highest 10%,SI.DST.10TH.10,29.4
+Indonesia,IDN,2015,Income share held by highest 10%,SI.DST.10TH.10,31.5
+Indonesia,IDN,2014,Income share held by highest 10%,SI.DST.10TH.10,31.5
+Indonesia,IDN,2013,Income share held by highest 10%,SI.DST.10TH.10,31.5
+Indonesia,IDN,2012,Income share held by highest 10%,SI.DST.10TH.10,30.5
+Indonesia,IDN,2011,Income share held by highest 10%,SI.DST.10TH.10,30.9
+Indonesia,IDN,2010,Income share held by highest 10%,SI.DST.10TH.10,27.8
+Indonesia,IDN,2009,Income share held by highest 10%,SI.DST.10TH.10,27.8
+Indonesia,IDN,2008,Income share held by highest 10%,SI.DST.10TH.10,26.9
+Indonesia,IDN,2007,Income share held by highest 10%,SI.DST.10TH.10,27.3
+Indonesia,IDN,2006,Income share held by highest 10%,SI.DST.10TH.10,26.1
+Indonesia,IDN,2005,Income share held by highest 10%,SI.DST.10TH.10,25.1
+Indonesia,IDN,2004,Income share held by highest 10%,SI.DST.10TH.10,25.3
+Indonesia,IDN,2003,Income share held by highest 10%,SI.DST.10TH.10,24.6
+Indonesia,IDN,2002,Income share held by highest 10%,SI.DST.10TH.10,25.9
+Indonesia,IDN,2001,Income share held by highest 10%,SI.DST.10TH.10,26.3
+Indonesia,IDN,2000,Income share held by highest 10%,SI.DST.10TH.10,25.6
+Indonesia,IDN,1999,Income share held by highest 10%,SI.DST.10TH.10,26.4
+Indonesia,IDN,1998,Income share held by highest 10%,SI.DST.10TH.10,25.9
+Indonesia,IDN,1996,Income share held by highest 10%,SI.DST.10TH.10,28.6
+Indonesia,IDN,1993,Income share held by highest 10%,SI.DST.10TH.10,26.8
+Indonesia,IDN,1990,Income share held by highest 10%,SI.DST.10TH.10,26.1
+Indonesia,IDN,1987,Income share held by highest 10%,SI.DST.10TH.10,25.5
+Indonesia,IDN,1984,Income share held by highest 10%,SI.DST.10TH.10,26.2
+Indonesia,IDN,2024,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.9
+Indonesia,IDN,2023,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.5
+Indonesia,IDN,2022,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.2
+Indonesia,IDN,2021,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.4
+Indonesia,IDN,2020,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.6
+Indonesia,IDN,2019,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.6
+Indonesia,IDN,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.3
+Indonesia,IDN,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.2
+Indonesia,IDN,2016,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.7
+Indonesia,IDN,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.7
+Indonesia,IDN,2014,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.8
+Indonesia,IDN,2013,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.5
+Indonesia,IDN,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.1
+Indonesia,IDN,2011,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.8
+Indonesia,IDN,2010,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,7.3
+Indonesia,IDN,2009,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.5
+Indonesia,IDN,2008,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.5
+Indonesia,IDN,2007,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.7
+Indonesia,IDN,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,6.8
+Indonesia,IDN,2005,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.6
+Indonesia,IDN,2004,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.6
+Indonesia,IDN,2003,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.8
+Indonesia,IDN,2002,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,3.6
+Indonesia,IDN,2001,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.8
+Indonesia,IDN,2000,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.8
+Indonesia,IDN,1999,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.7
+Indonesia,IDN,1998,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.1
+Indonesia,IDN,1996,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.8
+Indonesia,IDN,1993,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,4.9
+Indonesia,IDN,1990,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.2
+Indonesia,IDN,1987,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,5.5
+Indonesia,IDN,1984,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,8.8
+Indonesia,IDN,2024,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Indonesia,IDN,2023,Income share held by lowest 10%,SI.DST.FRST.10,3.3
+Indonesia,IDN,2022,Income share held by lowest 10%,SI.DST.FRST.10,3.3
+Indonesia,IDN,2021,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Indonesia,IDN,2020,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Indonesia,IDN,2019,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Indonesia,IDN,2018,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Indonesia,IDN,2017,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Indonesia,IDN,2016,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Indonesia,IDN,2015,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Indonesia,IDN,2014,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Indonesia,IDN,2013,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Indonesia,IDN,2012,Income share held by lowest 10%,SI.DST.FRST.10,3.3
+Indonesia,IDN,2011,Income share held by lowest 10%,SI.DST.FRST.10,3.2
+Indonesia,IDN,2010,Income share held by lowest 10%,SI.DST.FRST.10,3.5
+Indonesia,IDN,2009,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Indonesia,IDN,2008,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Indonesia,IDN,2007,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Indonesia,IDN,2006,Income share held by lowest 10%,SI.DST.FRST.10,3.7
+Indonesia,IDN,2005,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Indonesia,IDN,2004,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Indonesia,IDN,2003,Income share held by lowest 10%,SI.DST.FRST.10,4.1
+Indonesia,IDN,2002,Income share held by lowest 10%,SI.DST.FRST.10,4.2
+Indonesia,IDN,2001,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Indonesia,IDN,2000,Income share held by lowest 10%,SI.DST.FRST.10,4
+Indonesia,IDN,1999,Income share held by lowest 10%,SI.DST.FRST.10,4
+Indonesia,IDN,1998,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Indonesia,IDN,1996,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Indonesia,IDN,1993,Income share held by lowest 10%,SI.DST.FRST.10,3.9
+Indonesia,IDN,1990,Income share held by lowest 10%,SI.DST.FRST.10,4
+Indonesia,IDN,1987,Income share held by lowest 10%,SI.DST.FRST.10,4
+Indonesia,IDN,1984,Income share held by lowest 10%,SI.DST.FRST.10,3.6
+Indonesia,IDN,2024,Income share held by lowest 20%,SI.DST.FRST.20,8.1
+Indonesia,IDN,2023,Income share held by lowest 20%,SI.DST.FRST.20,7.9
+Indonesia,IDN,2022,Income share held by lowest 20%,SI.DST.FRST.20,7.8
+Indonesia,IDN,2021,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Indonesia,IDN,2020,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Indonesia,IDN,2019,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Indonesia,IDN,2018,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+Indonesia,IDN,2017,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+Indonesia,IDN,2016,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+Indonesia,IDN,2015,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+Indonesia,IDN,2014,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+Indonesia,IDN,2013,Income share held by lowest 20%,SI.DST.FRST.20,7.4
+Indonesia,IDN,2012,Income share held by lowest 20%,SI.DST.FRST.20,7.7
+Indonesia,IDN,2011,Income share held by lowest 20%,SI.DST.FRST.20,7.5
+Indonesia,IDN,2010,Income share held by lowest 20%,SI.DST.FRST.20,8.1
+Indonesia,IDN,2009,Income share held by lowest 20%,SI.DST.FRST.20,8.4
+Indonesia,IDN,2008,Income share held by lowest 20%,SI.DST.FRST.20,8.5
+Indonesia,IDN,2007,Income share held by lowest 20%,SI.DST.FRST.20,8.4
+Indonesia,IDN,2006,Income share held by lowest 20%,SI.DST.FRST.20,8.7
+Indonesia,IDN,2005,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Indonesia,IDN,2004,Income share held by lowest 20%,SI.DST.FRST.20,9
+Indonesia,IDN,2003,Income share held by lowest 20%,SI.DST.FRST.20,9.4
+Indonesia,IDN,2002,Income share held by lowest 20%,SI.DST.FRST.20,9.5
+Indonesia,IDN,2001,Income share held by lowest 20%,SI.DST.FRST.20,9.1
+Indonesia,IDN,2000,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Indonesia,IDN,1999,Income share held by lowest 20%,SI.DST.FRST.20,9.2
+Indonesia,IDN,1998,Income share held by lowest 20%,SI.DST.FRST.20,9
+Indonesia,IDN,1996,Income share held by lowest 20%,SI.DST.FRST.20,8.4
+Indonesia,IDN,1993,Income share held by lowest 20%,SI.DST.FRST.20,9
+Indonesia,IDN,1990,Income share held by lowest 20%,SI.DST.FRST.20,9
+Indonesia,IDN,1987,Income share held by lowest 20%,SI.DST.FRST.20,9.1
+Indonesia,IDN,1984,Income share held by lowest 20%,SI.DST.FRST.20,8.3
+Indonesia,IDN,2024,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,5.4
+Indonesia,IDN,2023,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,6.7
+Indonesia,IDN,2022,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,7.9
+Indonesia,IDN,2021,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,8.6
+Indonesia,IDN,2020,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,9.8
+Indonesia,IDN,2019,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,10.8
+Indonesia,IDN,2018,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,12.5
+Indonesia,IDN,2017,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,14.8
+Indonesia,IDN,2016,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,18
+Indonesia,IDN,2015,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,21.6
+Indonesia,IDN,2014,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,25.7
+Indonesia,IDN,2013,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,27.2
+Indonesia,IDN,2012,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,26.6
+Indonesia,IDN,2011,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,31.2
+Indonesia,IDN,2010,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,34.1
+Indonesia,IDN,2009,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,37.9
+Indonesia,IDN,2008,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,38
+Indonesia,IDN,2007,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,41.1
+Indonesia,IDN,2006,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,46.8
+Indonesia,IDN,2005,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,41.1
+Indonesia,IDN,2004,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,45.4
+Indonesia,IDN,2003,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,45.5
+Indonesia,IDN,2002,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,46.8
+Indonesia,IDN,2001,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,62.3
+Indonesia,IDN,2000,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,65.7
+Indonesia,IDN,1999,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,66.2
+Indonesia,IDN,1998,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,82.8
+Indonesia,IDN,1996,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,68.1
+Indonesia,IDN,1993,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,78
+Indonesia,IDN,1990,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,78.6
+Indonesia,IDN,1987,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,86.8
+Indonesia,IDN,1984,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,86.2
+Indonesia,IDN,2024,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.8
+Indonesia,IDN,2023,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,1.1
+Indonesia,IDN,2022,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,1.3
+Indonesia,IDN,2021,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,1.5
+Indonesia,IDN,2020,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,1.7
+Indonesia,IDN,2019,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,2
+Indonesia,IDN,2018,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,2.5
+Indonesia,IDN,2017,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,3
+Indonesia,IDN,2016,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,3.7
+Indonesia,IDN,2015,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,4.6
+Indonesia,IDN,2014,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,5.3
+Indonesia,IDN,2013,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,5.8
+Indonesia,IDN,2012,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,5.6
+Indonesia,IDN,2011,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,7.3
+Indonesia,IDN,2010,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,8.3
+Indonesia,IDN,2009,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,9.6
+Indonesia,IDN,2008,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,9.6
+Indonesia,IDN,2007,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,10.8
+Indonesia,IDN,2006,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,13.1
+Indonesia,IDN,2005,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,10.2
+Indonesia,IDN,2004,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,12
+Indonesia,IDN,2003,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,11.5
+Indonesia,IDN,2002,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,11.7
+Indonesia,IDN,2001,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,19.7
+Indonesia,IDN,2000,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,21.4
+Indonesia,IDN,1999,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,21.5
+Indonesia,IDN,1998,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,35.9
+Indonesia,IDN,1996,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,24.6
+Indonesia,IDN,1993,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,31.3
+Indonesia,IDN,1990,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,31.7
+Indonesia,IDN,1987,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,40.7
+Indonesia,IDN,1984,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,41.7
+Indonesia,IDN,2024,Gini index,SI.POV.GINI,34.9
+Indonesia,IDN,2023,Gini index,SI.POV.GINI,36.1
+Indonesia,IDN,2022,Gini index,SI.POV.GINI,35.5
+Indonesia,IDN,2021,Gini index,SI.POV.GINI,35.5
+Indonesia,IDN,2020,Gini index,SI.POV.GINI,35.3
+Indonesia,IDN,2019,Gini index,SI.POV.GINI,35.4
+Indonesia,IDN,2018,Gini index,SI.POV.GINI,36.3
+Indonesia,IDN,2017,Gini index,SI.POV.GINI,36.4
+Indonesia,IDN,2016,Gini index,SI.POV.GINI,36.9
+Indonesia,IDN,2015,Gini index,SI.POV.GINI,38.2
+Indonesia,IDN,2014,Gini index,SI.POV.GINI,38.8
+Indonesia,IDN,2013,Gini index,SI.POV.GINI,38.9
+Indonesia,IDN,2012,Gini index,SI.POV.GINI,37.1
+Indonesia,IDN,2011,Gini index,SI.POV.GINI,37.9
+Indonesia,IDN,2010,Gini index,SI.POV.GINI,34.6
+Indonesia,IDN,2009,Gini index,SI.POV.GINI,33.4
+Indonesia,IDN,2008,Gini index,SI.POV.GINI,32.6
+Indonesia,IDN,2007,Gini index,SI.POV.GINI,33.2
+Indonesia,IDN,2006,Gini index,SI.POV.GINI,31.5
+Indonesia,IDN,2005,Gini index,SI.POV.GINI,29.9
+Indonesia,IDN,2004,Gini index,SI.POV.GINI,30.4
+Indonesia,IDN,2003,Gini index,SI.POV.GINI,29.3
+Indonesia,IDN,2002,Gini index,SI.POV.GINI,30.2
+Indonesia,IDN,2001,Gini index,SI.POV.GINI,31.2
+Indonesia,IDN,2000,Gini index,SI.POV.GINI,30.3
+Indonesia,IDN,1999,Gini index,SI.POV.GINI,30.8
+Indonesia,IDN,1998,Gini index,SI.POV.GINI,30.9
+Indonesia,IDN,1996,Gini index,SI.POV.GINI,34.2
+Indonesia,IDN,1993,Gini index,SI.POV.GINI,31.8
+Indonesia,IDN,1990,Gini index,SI.POV.GINI,31.1
+Indonesia,IDN,1987,Gini index,SI.POV.GINI,30.4
+Indonesia,IDN,1984,Gini index,SI.POV.GINI,32.3
+Indonesia,IDN,2024,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,19.9
+Indonesia,IDN,2023,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,21.9
+Indonesia,IDN,2022,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,23.7
+Indonesia,IDN,2021,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,24.2
+Indonesia,IDN,2020,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,26.4
+Indonesia,IDN,2019,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,28.3
+Indonesia,IDN,2018,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,30.3
+Indonesia,IDN,2017,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,34.1
+Indonesia,IDN,2016,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,38.7
+Indonesia,IDN,2015,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,43.4
+Indonesia,IDN,2014,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,47.7
+Indonesia,IDN,2013,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,49.7
+Indonesia,IDN,2012,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,49.9
+Indonesia,IDN,2011,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,53.6
+Indonesia,IDN,2010,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,56.7
+Indonesia,IDN,2009,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,63.8
+Indonesia,IDN,2008,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,63.4
+Indonesia,IDN,2007,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,66
+Indonesia,IDN,2006,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,71.8
+Indonesia,IDN,2005,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,68.6
+Indonesia,IDN,2004,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,71.7
+Indonesia,IDN,2003,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,71.3
+Indonesia,IDN,2002,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,73.1
+Indonesia,IDN,2001,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,81.9
+Indonesia,IDN,2000,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,84.3
+Indonesia,IDN,1999,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,85.1
+Indonesia,IDN,1998,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,92.8
+Indonesia,IDN,1996,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,84.1
+Indonesia,IDN,1993,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,90.1
+Indonesia,IDN,1990,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,90.5
+Indonesia,IDN,1987,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,94.6
+Indonesia,IDN,1984,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,94.3
+Indonesia,IDN,2024,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,4.1
+Indonesia,IDN,2023,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,4.8
+Indonesia,IDN,2022,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,5.3
+Indonesia,IDN,2021,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,5.7
+Indonesia,IDN,2020,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,6.3
+Indonesia,IDN,2019,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,6.9
+Indonesia,IDN,2018,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,7.8
+Indonesia,IDN,2017,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,9.1
+Indonesia,IDN,2016,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,10.9
+Indonesia,IDN,2015,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,12.7
+Indonesia,IDN,2014,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,14.5
+Indonesia,IDN,2013,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,15.4
+Indonesia,IDN,2012,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,15.1
+Indonesia,IDN,2011,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,17.5
+Indonesia,IDN,2010,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,19.2
+Indonesia,IDN,2009,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,21.7
+Indonesia,IDN,2008,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,21.6
+Indonesia,IDN,2007,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,23.3
+Indonesia,IDN,2006,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,26.7
+Indonesia,IDN,2005,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,23.3
+Indonesia,IDN,2004,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,25.8
+Indonesia,IDN,2003,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,25.4
+Indonesia,IDN,2002,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,25.9
+Indonesia,IDN,2001,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,35.1
+Indonesia,IDN,2000,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,37.2
+Indonesia,IDN,1999,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,37.4
+Indonesia,IDN,1998,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,51
+Indonesia,IDN,1996,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,39.7
+Indonesia,IDN,1993,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,46.6
+Indonesia,IDN,1990,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,47.1
+Indonesia,IDN,1987,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,55.2
+Indonesia,IDN,1984,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,55.8
+Indonesia,IDN,2024,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9
+Indonesia,IDN,2023,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.4
+Indonesia,IDN,2022,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.5
+Indonesia,IDN,2021,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.1
+Indonesia,IDN,2020,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.8
+Indonesia,IDN,2019,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.4
+Indonesia,IDN,2018,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,9.8
+Indonesia,IDN,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.6
+Indonesia,IDN,2016,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.9
+Indonesia,IDN,2015,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,11.2
+Indonesia,IDN,2014,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,11.3
+Indonesia,IDN,2013,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,11.4
+Indonesia,IDN,2012,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12
+Indonesia,IDN,2011,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,12.5
+Indonesia,IDN,2009,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,14.1
+Indonesia,IDN,2008,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,15.4
+Indonesia,IDN,2007,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.6
+Indonesia,IDN,2006,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.8
+Indonesia,IDN,2005,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16
+Indonesia,IDN,2004,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.7
+Indonesia,IDN,2003,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,17.4
+Indonesia,IDN,2002,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.2
+Indonesia,IDN,2001,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,18.4
+Indonesia,IDN,2000,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,19.1
+Indonesia,IDN,2024,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,68.3
+Indonesia,IDN,2023,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,69.6
+Indonesia,IDN,2022,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,70.3
+Indonesia,IDN,2021,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,68.5
+Indonesia,IDN,2020,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,69.4
+Indonesia,IDN,2019,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,70.4
+Indonesia,IDN,2018,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,71.2
+Indonesia,IDN,2017,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,74.1
+Indonesia,IDN,2016,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,77.5
+Indonesia,IDN,2015,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,81.9
+Indonesia,IDN,2014,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,82
+Indonesia,IDN,2013,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,82.6
+Indonesia,IDN,2012,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,84.7
+Indonesia,IDN,2011,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,85.8
+Indonesia,IDN,2010,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,88.9
+Indonesia,IDN,2009,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,92.1
+Indonesia,IDN,2008,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,92.4
+Indonesia,IDN,2007,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,92.6
+Indonesia,IDN,2006,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,95.3
+Indonesia,IDN,2005,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,94.6
+Indonesia,IDN,2004,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,94.8
+Indonesia,IDN,2003,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,95.4
+Indonesia,IDN,2002,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,94.9
+Indonesia,IDN,2001,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,96.8
+Indonesia,IDN,2000,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,97.6
+Indonesia,IDN,1999,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,97.9
+Indonesia,IDN,1998,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,99.1
+Indonesia,IDN,1996,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,96.9
+Indonesia,IDN,1993,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,98.3
+Indonesia,IDN,1990,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,98.5
+Indonesia,IDN,1987,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,99.2
+Indonesia,IDN,1984,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,99.2
+Indonesia,IDN,2024,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,25.5
+Indonesia,IDN,2023,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,26.7
+Indonesia,IDN,2022,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,27.6
+Indonesia,IDN,2021,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,27.3
+Indonesia,IDN,2020,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,28.6
+Indonesia,IDN,2019,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,29.6
+Indonesia,IDN,2018,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,30.7
+Indonesia,IDN,2017,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,33
+Indonesia,IDN,2016,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,35.9
+Indonesia,IDN,2015,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,39.6
+Indonesia,IDN,2014,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,41.1
+Indonesia,IDN,2013,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,42.2
+Indonesia,IDN,2012,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,42.8
+Indonesia,IDN,2011,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,45.2
+Indonesia,IDN,2010,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,47.7
+Indonesia,IDN,2009,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,51.6
+Indonesia,IDN,2008,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,51.6
+Indonesia,IDN,2007,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,52.9
+Indonesia,IDN,2006,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,56.8
+Indonesia,IDN,2005,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,54.4
+Indonesia,IDN,2004,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,56.1
+Indonesia,IDN,2003,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,56.1
+Indonesia,IDN,2002,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,56.6
+Indonesia,IDN,2001,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,63.3
+Indonesia,IDN,2000,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,65
+Indonesia,IDN,1999,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,65.4
+Indonesia,IDN,1998,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,73.8
+Indonesia,IDN,1996,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,65.9
+Indonesia,IDN,1993,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,70.9
+Indonesia,IDN,1990,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,71.2
+Indonesia,IDN,1987,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,76.2
+Indonesia,IDN,1984,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,76.5
+Indonesia,IDN,2024,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,4.1
+Indonesia,IDN,2019,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,3.59
+Indonesia,IDN,2024,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,2.72
+Indonesia,IDN,2024,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,8.24
+Indonesia,IDN,2019,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,7.51
+Indonesia,IDN,2024,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,1.87
