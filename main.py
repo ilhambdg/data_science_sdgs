@@ -332,7 +332,7 @@ def predict_with_Randomforest(df, target, fitur_col, df_predik, label, badge, gr
     st.plotly_chart(fig, use_container_width=True)
 
 
-## -- setup streamlit
+## --setup streamlit
 st.set_page_config(
     page_title="Dashboard Interaktif",
     page_icon="📊",
@@ -356,8 +356,7 @@ final_df = predict_with(df_predict, "Tahun", "IKP", "Indeks Ketahanan Pangan").m
                         .merge(predict_with(df_predict, "Tahun", "Konsumsi Energi (kkal/kap/hari)", "Konsumsi Energi"), on="Tahun", how="outer") \
                         .merge(predict_with(df_predict, "Tahun", "Jumlah_Penduduk", "Jumlah Penduduk"), on="Tahun", how="outer")
 
-final_df_2030 = predict_with_2030(gini_df, "Tahun", "Gini index", "Gini index").merge(predict_with_2030(unicef_mid, "Tahun", "Perkiraan stunting by unicef", "Perkiraan stunting by unicef"), on="Tahun", how="outer") \
-                        .merge(predict_with_2030(rasio_df, "Tahun", "Rasio penduduk penghasilan < $3", "Rasio penduduk penghasilan < $3"), on="Tahun", how="outer")
+final_df_2030 = predict_with_2030(gini_df, "Tahun", "Gini index", "Gini index").merge(predict_with_2030(unicef_mid, "Tahun", "Perkiraan stunting by unicef", "Perkiraan stunting by unicef"), on="Tahun", how="outer") 
                        
 
 ## layar data visual
@@ -413,10 +412,9 @@ if halaman == "Visual Data":
         "SUMATERA UTARA": "Sumatera Utara"
     }
 
-        # 1. Baca file GeoJSON
+        
         with open("indonesia-province-simple.json") as f:
             geojson = json.load(f)
-
 
         #testing cek nama provinsi apa saja
         for isi in geojson["features"]:
@@ -448,34 +446,31 @@ if halaman == "Visual Data":
             st.write('---')
             st.subheader('Tabel Pulau (nasional)')
 
-             # 3. Visualisasi
+            
             fig = px.choropleth(
                 df_asli,
                 title= "Indeks Ketahanan Pangan",
                 geojson=geojson,
-                locations="Provinsi",                 # kolom dari dataframe
-                featureidkey="properties.Propinsi",   # sesuaikan field di GeoJSON
+                locations="Provinsi",                 
+                featureidkey="properties.Propinsi",   
                 color="Kelompok IKP",
                 color_continuous_scale="inferno"
             )
 
             fig.update_geos(
-                bgcolor="#333333",      # abu-abu gelap
+                bgcolor="#333333",      
                 showland=True,
                 landcolor="#333333"
             )
 
-            # Atur tampilan peta
             fig.update_geos(fitbounds="locations", visible=False)
 
-            # Tampilkan di Streamlit
             st.plotly_chart(fig, use_container_width=True)
 
             st.write("---")
             st.subheader('Line Chart (provinsi)')
             col1, col2 = st.columns(2)
             with col1:
-                # (line chart konsumsi per-kapita)
                 fig = px.line(isi, x='Tahun', y='Konsumsi Energi (kkal/kap/hari)', color='Provinsi', title="Rata-rata konsumsi energi per kapita")
                 st.plotly_chart(fig)
             with col2:
@@ -507,14 +502,14 @@ if halaman == "Visual Data":
             st.subheader('Bar Chart (provinsi)')
             col1, col2 = st.columns(2)
             with col1:
-                # Ubah ke format long
+                
                 df_melted = isi.melt(
                     id_vars=['Tahun'],
                     value_vars=['Ketersediaan Energi Hewani', 'Ketersediaan Energi Nabati'],
                     var_name='Jenis Energi',
                     value_name='Energi(kkal)'
                     )
-                # Bikin plot
+               
                 fig4 = px.bar(
                     df_melted,
                     title= "Kategori dalam energi",
@@ -582,9 +577,9 @@ if halaman == "Visual Data":
         chart = (
         alt.Chart(unicef_filtered).mark_line(point=True).encode(
             
-            x="Tahun:O",        # Tahun (ordinal)
-            y="Value:Q",       # Nilai
-            color="Indicator:N"   # Warna kategori
+            x="Tahun:O",        
+            y="Value:Q",       
+            color="Indicator:N"   
         )
         .properties(width=700, height=400, title="data stunting anak berdasar usia dan tinggi badan (model estimated by unicef)")
         )
@@ -648,6 +643,7 @@ elif halaman == "Korelasi Data":
     st.write('---')
 
     st.subheader('Hexbin Chart')
+
     ## hexbin chart
     fig, ax = plt.subplots(figsize=(6, 4), facecolor='none')
     hb = ax.hexbin(sesuai[pilih_X].to_numpy(), sesuai[pilih_Y].to_numpy(), gridsize=25, cmap='inferno', edgecolors='black')
@@ -684,7 +680,7 @@ elif halaman == "Korelasi Data":
    
     corr = df_predict.corr()
 
-    # Gambar
+   
     fig, ax = plt.subplots(figsize=(6, 6))
     plt.style.use('dark_background')
 
@@ -725,8 +721,7 @@ elif halaman == "Korelasi Data":
     "dan juga terjadi penurunan masyarakat berpenghasilan rendah.")
 
 
-
-# gunakan model untuk prediksi tren(hanya 1/2 fitur), kemudian buat model dengan input fitur prediksi tren tersebut.
+## halaman korelasi
 else:
     st.header('Prediksi data by model')
     st.write('(model prediksi mengambil rata-rata provinsi)')
@@ -762,8 +757,7 @@ else:
 
         predict_with_prophet_2030(gini_df, "Tahun", "Gini index", "Gini index", "buruk")
         predict_with_prophet_2030(unicef_mid, "Tahun", "Perkiraan stunting by unicef", "Perkiraan stunting by unicef", "baik")
-        predict_with_prophet_2030(rasio_df, "Tahun", "Rasio penduduk penghasilan < $3", "Rasio penduduk penghasilan < $3", "baik")
-
+        
         st.subheader("📅 Tabel Prediksi Prophet sampai 2030")
         st.dataframe(final_df_2030.round(2), use_container_width=True)
         st.write("---")
